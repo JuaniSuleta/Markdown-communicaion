@@ -7,3 +7,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Poner una foto de Messi
+- [x] Poner un codigo de ejemplo
+- [ ] Terminar el curso de Markdown
